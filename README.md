@@ -72,7 +72,5 @@
 
    ---
 
-   >This project was developed with ❤️ by **[@Feri Lukmansyah](https://www.linkedin.com/in/feri-lukmansyah-29a404178/)**, with the instructor **[Daniel Ciolfi](https://linkedin.com/in/danielciolfi)**, in the course  **["Creating Android and iOS Apps with Flutter - Create 16 Apps"](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/?referralCode=1355952A966260D40D18)** on **[Udemy](https://www.udemy.com/)**.<br>
-   If it helped you, give ⭐, contribute, it will help me too 😉
-
+   >This project was developed with ❤️ by **[@Feri Lukmansyah](https://www.linkedin.com/in/feri-lukmansyah-29a404178/)**
 ---
