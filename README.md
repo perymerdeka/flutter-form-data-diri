@@ -54,7 +54,7 @@
    $ git clone https://github.com/perymerdeka/flutter-form-data-diri.git
 
    - Enter in directory:
-   $ cd contacts
+   $ cd form-data-diri
 
    - For install dependencies:
    $ flutter pub get
