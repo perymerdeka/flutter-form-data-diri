@@ -33,7 +33,7 @@
       <img src="assets/demos/contactsdemo1.gif">
    </p>
    
-   > * See all in [`demo`](https://github.com/felipecastrosales/Contacts/tree/master/assets/demos) folder. 🧐📂
+   > * See all in [`demo`](https://github.com/perymerdeka/flutter-form-data-diri/tree/main/assets/demos) folder. 🧐📂
 
 ---
 
@@ -51,13 +51,13 @@
 
    ```   
    - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/Contacts contacts
+   $ git clone https://github.com/perymerdeka/flutter-form-data-diri.git
 
    - Enter in directory:
    $ cd contacts
 
    - For install dependencies:
-   $ flutter packages get
+   $ flutter pub get
 
    - Run the app: 
    $ flutter run
@@ -65,36 +65,14 @@
 
 ---
 
-<h2 align="center">How to Contribute 💪</h2>
-
-   ```
-   - Fork the project 
-
-   - Create a new branch with your changes:
-   $ git checkout -b my-feature
-
-   - Save your changes and create a commit message telling you what you did:
-   $ git commit -m "feature: My new feature"
-
-   - Submit your changes:
-   $ git push origin my-feature
-   ```
-
----
 
 <h2 align="center">License 📝</h2>
 
-   This repository is under MIT license. You can see the [LICENSE](https://github.com/felipecastrosales/Contacts/blob/master/LICENSE) file for more details. 😉
+   This repository is under MIT license. You can see the [LICENSE](https://github.com/perymerdeka/flutter-form-data-diri/blob/main/LICENSE) file for more details. 😉
 
    ---
 
-   >This project was developed with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, with the instructor **[Daniel Ciolfi](https://linkedin.com/in/danielciolfi)**, in the course  **["Creating Android and iOS Apps with Flutter - Create 16 Apps"](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/?referralCode=1355952A966260D40D18)** on **[Udemy](https://www.udemy.com/)**.<br>
+   >This project was developed with ❤️ by **[@Feri Lukmansyah](https://www.linkedin.com/in/feri-lukmansyah-29a404178/)**, with the instructor **[Daniel Ciolfi](https://linkedin.com/in/danielciolfi)**, in the course  **["Creating Android and iOS Apps with Flutter - Create 16 Apps"](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/?referralCode=1355952A966260D40D18)** on **[Udemy](https://www.udemy.com/)**.<br>
    If it helped you, give ⭐, contribute, it will help me too 😉
 
 ---
-
-   <div align="center">
-
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
-
-   </div>
